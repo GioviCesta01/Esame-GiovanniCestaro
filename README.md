@@ -38,5 +38,7 @@ Server:
 * php artisan migrate
 * php artisan serve
 
-
+# VISUALIZZAZIONE PAGINE
+* Per visualizzare la pagina home inserire /home all'interno dell'URL
+* Per visualizzare la pagina create inserire /house/create all'interno dell'URL
 
